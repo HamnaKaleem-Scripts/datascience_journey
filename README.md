@@ -1,6 +1,4 @@
 # README: Introduction to Data Science (IDS) Course
-
-## **Course Overview**
 The "Introduction to Data Science (IDS)" course provides a comprehensive foundation in essential tools and techniques for data analysis and machine learning. This course is designed for students looking to develop practical skills in Python-based libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn, which are widely used in the data science domain.
 
 ---
